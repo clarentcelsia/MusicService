@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MorningBreak</string>
+    <string name="foreword">Good Morning,</string>
+    <string name="sub"><b>Yes You"'"re</b></string>
+    <string name="spring">Your mind is a garden\n
+        Your thoughts are the seeds\n
+        You can grow flowers or You can grow weeds
+       </string>
+    <string name="summer">They will NEVER\n
+        take the summer away from me\n
+        You can grow flowers or You can grow weeds
+       </string>
+    <string name="autumn">Every leaves speak bliss to me,\n
+        Fluttering from the autumn tree\n\n
+        <i>Emily Bronte</i></string>
+    <string name="winter">" She was attracted to everything dark,"\n
+        Maybe that"'"s why she fell in love\n
+        with his soul\n\n
+        <i>Prapty</i></string>
+</resources>
